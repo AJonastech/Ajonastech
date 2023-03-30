@@ -1,29 +1,58 @@
-
 ![](https://pbs.twimg.com/media/Eqp_YlKXcAINpUH.jpg)
 
-<h3>Hello! welcome to my GitHub profile! I'm a passionate frontend developer with expertise in React, and a particular interest in fintech and e-commerce applications. With a focus on creating user-friendly and visually appealing products, I've built a diverse portfolio of projects across a range of industries. From intuitive e-commerce platforms to cutting-edge fintech solutions, I'm always seeking new challenges and opportunities to innovate. Take a look at my repositories to see how I've leveraged my skills to create powerful, user-centric applications<h3/>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Agu Jonas
+=================================================================================================================================
+
+Frontend React Developer
+------------------------
+
+Hello there! I'm a frontend developer who loves building applications using React. Whether it's a small side project or a large-scale app, I'm always eager to bring my creativity and attention to detail to the table. I have experience working on various types of projects, from personal websites to complex applications, and I'm always looking for new challenges to push my skills even further. Check out my repositories to see some of the exciting projects I've worked on!
+
+* 🌍  I'm based in Lagos, Nigeria
+* ✉️  You can contact me at [agujonas13@gmail.com](mailto:agujonas13@gmail.com)
+* 🧠  I'm learning NextJs
+* 🤝  I'm open to collaborating on interesting projects
+* ⚡  I'm secretly spiderman, but don't tell anyone else.
+
+<a href="https://www.github.com/Ajonastech" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Ajonastech?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/agujonas1" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/agujonas1?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/></a>
+
+### Skills
 
 
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/agu-jonas-211a651b6) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/agujonas1) 
 
+### Socials
 
+<p align="left"> <a href="https://www.github.com/Ajonastech" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/agu-jonas-211a651b6" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/agujonas1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ajonastech&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ajonastech&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ajonastech&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+### Badges
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Ajonastech&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<b>My GitHub Stats</b>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<a href="http://www.github.com/Ajonastech"><img src="https://github-readme-stats.vercel.app/api?username=Ajonastech&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Ajonastech's GitHub stats" /></a>
 
----
-[![](https://visitcount.itsvg.in/api?id=Ajonastech&icon=0&color=0)](https://visitcount.itsvg.in)
+<a href="http://www.github.com/Ajonastech"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ajonastech&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<a href="http://www.github.com/Ajonastech"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Ajonastech&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/Ajonastech" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajonastech&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/Ajonastech/twolinks-tesr" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ajonastech&repo=twolinks-tesr&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Ajonastech/efood-ecommerceApplication" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ajonastech&repo=efood-ecommerceApplication&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+<br /><br /><br /><br /><br />
+
+<div width="100%" align="center"><a href="https://github.com/Ajonastech/To_do_application " align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ajonastech&repo=To_do_application &title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
