@@ -3,14 +3,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Agu Jonas
 =================================================================================================================================
 
-Frontend React Developer
-------------------------
+Fullstack Developer(frontend heavy)
+-----------------------------------
 
-Hello there! I'm a frontend developer who loves building applications using React. Whether it's a small side project or a large-scale app, I'm always eager to bring my creativity and attention to detail to the table. I have experience working on various types of projects, from personal websites to complex applications, and I'm always looking for new challenges to push my skills even further. Check out my repositories to see some of the exciting projects I've worked on!
+Hello there! I'm a fullstack engineer who loves shipping products on the web. Whether it's a small side project or a large-scale app, I'm always eager to bring my creativity and attention to detail to the table. I have experience working on various types of projects, from personal websites to complex applications, and I'm always looking for new challenges to push my skills even further. Check out my repositories to see some of the exciting projects I've worked on!
 
 * 🌍  I'm based in Lagos, Nigeria
 * ✉️  You can contact me at [agujonas13@gmail.com](mailto:agujonas13@gmail.com)
-* 🧠  I'm learning NextJs
+* 🧠  I'm learning Golang
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  I'm secretly spiderman, but don't tell anyone else.
 
