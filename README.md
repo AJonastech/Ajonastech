@@ -3,10 +3,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Agu Jonas
 =================================================================================================================================
 
-Fullstack Developer(frontend heavy)
+Software Engineer
 -----------------------------------
 
-Hello there! I'm a fullstack engineer who loves shipping products on the web. Whether it's a small side project or a large-scale app, I'm always eager to bring my creativity and attention to detail to the table. I have experience working on various types of projects, from personal websites to complex applications, and I'm always looking for new challenges to push my skills even further. Check out my repositories to see some of the exciting projects I've worked on!
+Hello there! I'm a software engineer with a growing focus on backend, database, and system-level engineering. My journey began with frontend and fullstack development, where I built everything from small personal projects to large-scale web applications. Now, I’m expanding into Golang and backend systems, driven by my passion for building robust, scalable, and efficient architectures. I enjoy tackling complex engineering challenges, and I’m always looking for opportunities to push my skills further. Check out my repositories to see some of the systems and applications I’ve been working on!
 
 * 🌍  I'm based in Lagos, Nigeria
 * ✉️  You can contact me at [agujonas13@gmail.com](mailto:agujonas13@gmail.com)
